@@ -20,7 +20,7 @@ import sys
 
 
 if __name__ == '__main__':
-    # See: http://en.wikipedia.org/wiki/Fibonacci_number#Occurrences_in_mathematics
+
     fib = [1, 1]
     
     with open(sys.argv[1]) as f:
